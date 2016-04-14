@@ -1,7 +1,7 @@
-value of office calculator
+Web Template Using Grunt
 ====================
 
-build and watch styles with grunt
+build and watch SASS
 ---------------------
 
 ### Install Steps
